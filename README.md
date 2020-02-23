@@ -7,6 +7,7 @@ The goal of this homework assignment was to create a basic wireframe outline uti
 Ths project was developed for the University of California Extension (UCLA) Coding Bootcamp.
 
 View Project Here: https://rockstar67.github.io/HW-Wireframe/
+
 Technologies Used:
 
 HTML, CSS
